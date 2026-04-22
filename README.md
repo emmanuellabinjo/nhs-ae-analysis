@@ -45,6 +45,8 @@ The project is relevant to anyone working in health data analytics, NHS planning
 
 > A MAPE of 6.3% means the model's monthly forecasts are on average within 6.3% of the actual figure — reasonable performance for a baseline SARIMA model on data containing a major structural break (COVID-19).
 
+![Forecast chart](docs/images/forecast_chart.png)
+
 ---
 
 ## Dataset
